@@ -1,0 +1,19 @@
+{
+  "cash": "1000",
+  "cash_floor": "100",
+  "fee_bps": 30,
+  "assets": [
+    {
+      "symbol": "ETH",
+      "price": "2000",
+      "units": "1",
+      "target_weight": "0.5"
+    },
+    {
+      "symbol": "BTC",
+      "price": "50000",
+      "units": "0",
+      "target_weight": "0.4"
+    }
+  ]
+}

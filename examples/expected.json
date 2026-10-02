@@ -1,0 +1,37 @@
+{
+  "cash": "294.9000",
+  "execution_order": "sells first, then buys in input order",
+  "fees": "5.1000",
+  "final_value": "2994.9000",
+  "initial_value": "3000",
+  "positions": [
+    {
+      "symbol": "ETH",
+      "target_value": "1500.0",
+      "units": "0.75",
+      "value": "1500.00"
+    },
+    {
+      "symbol": "BTC",
+      "target_value": "1200.0",
+      "units": "0.024",
+      "value": "1200.000"
+    }
+  ],
+  "trades": [
+    {
+      "fee": "1.5000",
+      "side": "sell",
+      "symbol": "ETH",
+      "units": "0.25",
+      "value": "500.0"
+    },
+    {
+      "fee": "3.6000",
+      "side": "buy",
+      "symbol": "BTC",
+      "units": "0.024",
+      "value": "1200.0"
+    }
+  ]
+}
